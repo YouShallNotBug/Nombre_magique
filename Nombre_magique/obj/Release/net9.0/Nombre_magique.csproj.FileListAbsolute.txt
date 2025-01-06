@@ -1,0 +1,14 @@
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\bin\Release\net9.0\Nombre_magique.exe
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\bin\Release\net9.0\Nombre_magique.deps.json
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\bin\Release\net9.0\Nombre_magique.runtimeconfig.json
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\bin\Release\net9.0\Nombre_magique.dll
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\bin\Release\net9.0\Nombre_magique.pdb
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\Nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\Nombre_magique.AssemblyInfoInputs.cache
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\Nombre_magique.AssemblyInfo.cs
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\Nombre_magique.csproj.CoreCompileInputs.cache
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\Nombre_magique.dll
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\refint\Nombre_magique.dll
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\Nombre_magique.pdb
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\Nombre_magique.genruntimeconfig.cache
+C:\Users\pepit\RiderProjects\Nombre_magique\Nombre_magique\obj\Release\net9.0\ref\Nombre_magique.dll
