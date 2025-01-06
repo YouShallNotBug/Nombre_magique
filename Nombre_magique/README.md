@@ -26,15 +26,15 @@ Voici un aperçu du jeu **Nombre Magique** en action :
 
 ### 1. Début du jeu
 Au lancement, le jeu demande au joueur de deviner un nombre dans une plage définie :
-![Début du jeu](assets/NombreMagiqueStart.png)
+![Début du jeu](Assets/NombreMagiqueStart.png)
 
 ### 2. En cas d'erreur
 Si l'utilisateur entre une valeur invalide, un message d'erreur s'affiche :
-![Erreur utilisateur](assets/NombreMagiqueError.png)
+![Erreur utilisateur](Assets/NombreMagiqueError.png)
 
 ### 3. Victoire
 Quand le joueur trouve le bon nombre, un message de victoire est affiché :
-![Victoire](assets/NombreMagiqueVictory.png)
+![Victoire](Assets/NombreMagiqueVictory.png)
 
 ---
 
