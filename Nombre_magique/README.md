@@ -50,3 +50,7 @@ YouShallNotBug
    ```bash
    git clone https://github.com/youShallNotBug/nombre_magique.git
 
+## **📜 License**
+Ce projet est sous la MIT License. Consultez le fichier LICENSE pour plus de détails.
+
+## **🎉 Merci d'avoir testé le Jeu de Maths !**
